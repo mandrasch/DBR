@@ -2,7 +2,7 @@
 Quellen, die ich im Kontext meiner Masterarbeit zum Forschungsansatz Design-Based Research (DBR) gesammelt habe
 
 ## Einführendes Material
-* [Poster Gabi Reinmann](https://gabi-reinmann.de/wp-content/uploads/2018/04/DBR-Poster-aktualisiert.pdf)
+* [Poster DBR - Gabi Reinmann](https://gabi-reinmann.de/wp-content/uploads/2018/06/DBR-Poster_Entwurf_aktuell.pdf) ([Juni 2018](https://gabi-reinmann.de/?p=6263))
 * [Reader mit Texten von Gabi Reinmann](https://gabi-reinmann.de/wp-content/uploads/2018/06/Reader_DBR_Juni2018.pdf) (2018)
 
 ## Videos
