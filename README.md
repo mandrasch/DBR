@@ -4,7 +4,7 @@ Ein Konzept aus medienpädagogischer Perspektive“. Diese Liste kann gerne erwe
 
 ## Einführendes Material
 * [Poster DBR - Gabi Reinmann](https://gabi-reinmann.de/wp-content/uploads/2018/06/DBR-Poster_Entwurf_aktuell.pdf) ([Juni 2018](https://gabi-reinmann.de/?p=6263))
-* [Reader mit Texten von Gabi Reinmann im Zeitraum der letzten 10 Jahre](https://gabi-reinmann.de/wp-content/uploads/2018/06/Reader_DBR_Juni2018.pdf) (Letzte Aktualisierung: 2018)
+* [Reader mit ausgewählten Texten von Gabi Reinmann seit 2007](https://gabi-reinmann.de/wp-content/uploads/2018/06/Reader_DBR_Juni2018.pdf) (Letzte Aktualisierung: 2018)
 
 ## Videos
 * [Englischsprachige Videoserie vom Digital Media and Learning Research Hub für einen Online-Kurs](https://dmlcommons.net/design-research/) (2016, CC BY 3.0 US)
