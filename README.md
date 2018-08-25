@@ -1,6 +1,6 @@
 # Design-Based Research
 Quellen, die ich im Kontext meiner Masterarbeit zum Forschungsansatz Design-Based Research (DBR) bisher gesammelt habe. Liste ist freigegeben als [CC0](https://creativecommons.org/publicdomain/zero/1.0/deed.de), falls da überhaupt urheberrechtlicher Schutz bestehen würde. ;-) Thema der Masterarbeit: „Open Badges als Instrument der Kompetenzförderung. 
-Ein Konzept aus medienpädagogischer Perspektive.“
+Ein Konzept aus medienpädagogischer Perspektive“. Diese Liste kann gerne erweitert werden!
 
 ## Einführendes Material
 * [Poster DBR - Gabi Reinmann](https://gabi-reinmann.de/wp-content/uploads/2018/06/DBR-Poster_Entwurf_aktuell.pdf) ([Juni 2018](https://gabi-reinmann.de/?p=6263))
@@ -24,7 +24,7 @@ Ein Konzept aus medienpädagogischer Perspektive.“
 
 * ?
 
-## Literatur, die ich hilfreich fand
+## Hilfreiche Literatur
 
 * [Reader mit Texten von Gabi Reinmann im Zeitraum der letzten 10 Jahre](https://gabi-reinmann.de/wp-content/uploads/2018/06/Reader_DBR_Juni2018.pdf) (Letzte Aktualisierung: 2018)
 * Burda-Zoyke, Andrea 2017. Design-Based Research in der Berufs- und Wirtschaftspädagogik – Rezeption und Umsetzungsvarianten. bwp@ Berufs- und Wirtschaftspädagogik – online 30. (http://www.bwpat.de/ausgabe33/burda-zoyke_bwpat33.pdf). (CC BY-SA 4.0)
