@@ -20,7 +20,8 @@ Diese Liste kann gerne erweitert werden!
 * [Einsatz von Design Based Research in der Fernerkundungsdidaktik. Wissenschaftlich fundierte Entwicklung eines webbasierten Lernmoduls zur Förderung des Satellitenbildeinsatzes in der Schule - Tobias Gehrig (2016, CC BY-NC-ND 3.0 DE)](https://opus.ph-heidelberg.de/frontdoor/index/index/docId/195)
 
 ### Forschungsprojekte
-* kfz4me.de - [Design Based Research an Designbasierter Didaktik – Zur Methodologie und Durchführung einer innovationsorientierten Forschung in der KFZ-Erstausbildung](https://www.bwpat.de/ausgabe/33/schaefer-diezemann) - Markus SCHÄFER & Eckart DIEZEMANN (2017, CC BY-SA 4.0) 
+* kfz4me.de - [Design Based Research an Designbasierter Didaktik – Zur Methodologie und Durchführung einer innovationsorientierten Forschung in der KFZ-Erstausbildung](https://www.bwpat.de/ausgabe/33/schaefer-diezemann) - Markus SCHÄFER & Eckart DIEZEMANN (2017, CC BY-SA 4.0)
+* [„Triebfeder digitales Schulbuch!?“ – Schulbuch neu gedacht? Pilotprojekt zur Digitalisierung am Antonianum] - Christina Alz (Noch nicht abgeschlossen)
 
 ## (Online-)Communities, Foren, Mailinglisten
 
