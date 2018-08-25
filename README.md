@@ -8,6 +8,9 @@ Quellen, die ich im Kontext meiner Masterarbeit zum Forschungsansatz Design-Base
 ## Videos
 * [Englischsprachige Videoserie vom Digital Media and Learning Research Hub für einen Online-Kurs](https://dmlcommons.net/design-research/) (2016, CC BY 3.0 US)
 
+## Podcast
+* [RIA #46: Dr. Sam Johnston on Design-based Research](https://ecampus.oregonstate.edu/research/podcast/e46/) (2017)
+
 ## Studentische Forschungsarbeiten
 * [Einsatz von Design Based Research in der Fernerkundungsdidaktik. Wissenschaftlich fundierte Entwicklung eines webbasierten Lernmoduls zur Förderung des Satellitenbildeinsatzes in der Schule - Tobias Gehrig (2016, CC BY-NC-ND 3.0 DE)](https://opus.ph-heidelberg.de/frontdoor/index/index/docId/195)
 
