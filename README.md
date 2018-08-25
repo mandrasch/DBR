@@ -1,6 +1,8 @@
 # Design-Based Research (DBR)
 Quellen, die ich im Kontext meiner Masterarbeit zum Forschungsansatz Design-Based Research (DBR) bisher gesammelt habe. Liste ist freigegeben als [CC0](https://creativecommons.org/publicdomain/zero/1.0/deed.de), falls da überhaupt urheberrechtlicher Schutz bestehen würde. ;-) Thema der Masterarbeit: „Open Badges als Instrument der Kompetenzförderung. 
-Ein Konzept aus medienpädagogischer Perspektive“. Diese Liste kann gerne erweitert werden!
+Ein Konzept aus medienpädagogischer Perspektive“. 
+
+Diese Liste kann gerne erweitert werden!
 
 ## Einführendes Material
 * [Poster DBR - Gabi Reinmann](https://gabi-reinmann.de/wp-content/uploads/2018/06/DBR-Poster_Entwurf_aktuell.pdf) ([Juni 2018](https://gabi-reinmann.de/?p=6263)), Zielgruppe: Studierende
