@@ -13,3 +13,7 @@ Quellen, die ich im Kontext meiner Masterarbeit zum Forschungsansatz Design-Base
 
 ## Wissenschaftliche DBR-Forschungsprojekte (Open Access)
 * kfz4me.de - [Design Based Research an Designbasierter Didaktik – Zur Methodologie und Durchführung einer innovationsorientierten Forschung in der KFZ-Erstausbildung](https://www.bwpat.de/ausgabe/33/schaefer-diezemann) - Markus SCHÄFER & Eckart DIEZEMANN (2017, CC BY-SA 4.0) 
+
+## Communities
+
+?
