@@ -2,6 +2,10 @@
 Quellen, die ich im Kontext meiner Masterarbeit zum Forschungsansatz Design-Based Research (DBR) bisher gesammelt habe. Liste ist freigegeben als [CC0](https://creativecommons.org/publicdomain/zero/1.0/deed.de), falls da überhaupt urheberrechtlicher Schutz bestehen würde. ;-) Thema der Masterarbeit: „Open Badges als Instrument der Kompetenzförderung. 
 Ein Konzept aus medienpädagogischer Perspektive“. 
 
+UPDATE:
+
+https://blog.matthias-andrasch.de/2019/design-based-research-endlich-theorie-und-praxis-im-bildungssystem-zusammenbringen/
+
 Diese Liste kann gerne erweitert werden!
 
 ## Einführendes Material
